@@ -86,7 +86,7 @@ Paper Accepted 不是通用润色工具。
 
 ## 下载与开始
 
-1. 打开 [Releases](https://github.com/ww11-max/Paper-Accepted/releases/latest) 下载最新 Windows 包；历史版本见 [RELEASES.md](RELEASES.md)。
+1. 打开 [Releases](https://github.com/ww11-max/Paper-Accepted/releases/latest) 下载最新 Windows 包。
 2. 解压整包到任意目录（例如 `D:\PaperAccepted`），**不要只把 exe 拖出来**。
 3. 双击 `Paper Accepted.exe`。
 4. 输入激活码（`PA-XXXX-XXXX-XXXX`，由发放渠道提供）。
