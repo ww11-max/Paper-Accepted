@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/assets/cover-wide-2x.png" alt="Paper Accepted — From draft to accepted" width="100%">
+  <img src="docs/assets/cover.jpg" alt="Paper Accepted — From draft to accepted" width="100%">
 </p>
 
 <h1 align="center">Paper Accepted</h1>
