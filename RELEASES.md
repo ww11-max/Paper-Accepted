@@ -4,20 +4,21 @@
 
 | 版本 | 日期 | 安装包 | 说明 |
 |---|---|---|---|
-| **v2026.11.02b** | 2026-11-02 | [下载](https://github.com/ww11-max/Paper-Accepted/releases/tag/v2026.11.02b) | [发布说明](releases/2026-11-02b.md) |
-| v2026.11.02 | 2026-11-02 | 已下线，不再提供下载 | 客户端内保留已失效的「接入新期刊」按钮，请改用 v2026.11.02b |
+| **v2026.11.02c** | 2026-11-02 | [下载](https://github.com/ww11-max/Paper-Accepted/releases/tag/v2026.11.02c) | [发布说明](releases/2026-11-02c.md) |
+| v2026.11.02b | 2026-11-02 | 已下线，不再提供下载 | 外部链接会在应用内打开，可被读取本机稿件；请改用 v2026.11.02c |
+| v2026.11.02 | 2026-11-02 | 已下线，不再提供下载 | 客户端内保留已失效的「接入新期刊」按钮，请改用 v2026.11.02c |
 | v2026.10.27b ~ v2026.10.31 | 2026-10-27 ~ 10-31 | 已下线，不再提供下载 | 含已知安全问题，请勿使用 |
 
 最新版本始终见 [Releases](https://github.com/ww11-max/Paper-Accepted/releases/latest)。
 
-> **提示**：v2026.11.02 及更早的安装包已全部从仓库移除。若你手上仍留有旧版，请删除并改用最新版。
+> **提示**：v2026.11.02b 及更早的安装包已全部从仓库移除。若你手上仍留有旧版，请删除并改用最新版。
 
 ## 校验
 
 每个安装包附对应的 `.sha256` 文件。下载后可校验：
 
 ```powershell
-Get-FileHash .\PaperAccepted-win64-20261102b.zip -Algorithm SHA256
+Get-FileHash .\PaperAccepted-win64-20261102c.zip -Algorithm SHA256
 ```
 
-将结果与 `releases/PaperAccepted-win64-20261102b.zip.sha256` 中的值比对。
+将结果与 `releases/PaperAccepted-win64-20261102c.zip.sha256` 中的值比对。
