@@ -6,7 +6,7 @@
 
 <p align="center"><em>From draft to accepted.</em></p>
 
-<p align="center">面向经济学与管理学作者的学术稿件改写智能体</p>
+<p align="center">面向经管专业作者的学术稿件改写智能体</p>
 
 <p align="center">
   Windows x64 · 内测版 · 需要联网
