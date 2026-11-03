@@ -9,7 +9,6 @@
 <p align="center">面向经管专业作者的学术稿件改写智能体</p>
 
 <p align="center">
-  Windows x64 · 内测版 · 需要联网
 </p>
 
 
